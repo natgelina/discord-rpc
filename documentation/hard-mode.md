@@ -1,4 +1,4 @@
-# Hard Mode: Roll Your Own Client
+# Hard Mode: Roll Your Own Client ****
 
 Discord's Rich Presence feature is designed as an obfuscated addition to our existing [RPC infrastructure](https://discordapp.com/developers/docs/topics/rpc). The standalone library and header files make it easy for any dev to drop it into their game.
 
